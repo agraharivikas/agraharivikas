@@ -9,8 +9,8 @@
 
 <!-- Tagline -->
 <p>
-  <strong>Building OneAeye</strong> — a modular ERP platform for Indian SMBs.<br/>
-  Real software. Real clients. Live in production.
+  <strong>Founder & Director, OneAeye Solutions Pvt Ltd</strong><br/>
+  Building modular ERP for Indian SMBs — real software, real clients, live in production.
 </p>
 
 <!-- Badges row -->
@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/Status-Actively%20Building-22c55e?style=for-the-badge&labelColor=0f172a" />
   <img src="https://img.shields.io/badge/Clients-Live%20in%20Production-6366f1?style=for-the-badge&labelColor=0f172a" />
   <img src="https://img.shields.io/badge/Based%20in-Kanpur%2C%20India-f59e0b?style=for-the-badge&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/DPIIT-Recognised%20Startup-FF6B35?style=for-the-badge&labelColor=0f172a" />
 </p>
 
 <!-- Social links -->
@@ -41,9 +42,9 @@
 
 ## 🏗️ What I'm Building
 
-> 4 months back into active coding after 15 years away.
+> La Trobe University, Melbourne. Back in Kanpur since 2009. Nearly two decades inside the **Akashdeep Group** — operations, accounts, hospital administration.
+> Started coding again in 2026. Four months later: four live systems running at a real hospital.
 > Using **Claude AI** as my pair programmer. Shipping one module at a time.
-> Not waiting for perfect. Shipping what works.
 
 | Module | What It Does | Status | Stack |
 |--------|-------------|--------|-------|
@@ -119,6 +120,10 @@ and you need software that actually works for your team, let's talk.
   &nbsp;
   <a href="https://oneaeye.com">
     <img src="https://img.shields.io/badge/Visit-oneaeye.com-6366f1?style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="mailto:hello@oneaeye.com">
+    <img src="https://img.shields.io/badge/Email-hello%40oneaeye.com-22c55e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" />
   </a>
 </p>
 
