@@ -76,7 +76,8 @@
 
 ```
 No frameworks. No bundlers. No dependencies I don't understand.
-Just PHP, SQL, and JavaScript that works on Hostinger shared hosting.
+Every line is code I wrote and can debug myself.
+Just PHP, SQL, and JavaScript — nothing I can't own end to end.
 ```
 
 ---
